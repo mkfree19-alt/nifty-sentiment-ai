@@ -1,1 +1,2 @@
-web: gunicorn Sentiment_app_free:app
+web: gunicorn Sentiment_app_free.py:app
+
