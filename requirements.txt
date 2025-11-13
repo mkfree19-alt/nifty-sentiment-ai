@@ -1,0 +1,8 @@
+flask
+requests
+pandas
+numpy
+python-dateutil
+yfinance
+scipy
+gunicorn
